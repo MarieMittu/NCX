@@ -1,0 +1,14 @@
+[
+	{
+		"name": "carBlue",
+		"speed": 400,
+	},
+	{
+		"name": "carRed",
+		"speed": 200,
+	},
+	{
+		"name": "carPolice",
+		"speed": 100,
+	}
+]
