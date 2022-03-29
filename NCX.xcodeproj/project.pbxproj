@@ -20,7 +20,6 @@
 		29AF284227F1F21600F254C1 /* car-types.json in Resources */ = {isa = PBXBuildFile; fileRef = 29AF284127F1F21600F254C1 /* car-types.json */; };
 		29AF284427F1F39400F254C1 /* Wave.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29AF284327F1F39400F254C1 /* Wave.swift */; };
 		29AF284827F1FA1000F254C1 /* Bundle-Decoding.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29AF284727F1FA1000F254C1 /* Bundle-Decoding.swift */; };
-		29AF284A27F2026900F254C1 /* waves.json in Resources */ = {isa = PBXBuildFile; fileRef = 29AF284927F2026800F254C1 /* waves.json */; };
 		29AF285027F2043200F254C1 /* BenzinaNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29AF284F27F2043200F254C1 /* BenzinaNode.swift */; };
 		29AF285227F206E700F254C1 /* Fuel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29AF285127F206E700F254C1 /* Fuel.swift */; };
 /* End PBXBuildFile section */
@@ -40,7 +39,6 @@
 		29AF284127F1F21600F254C1 /* car-types.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "car-types.json"; sourceTree = "<group>"; };
 		29AF284327F1F39400F254C1 /* Wave.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Wave.swift; sourceTree = "<group>"; };
 		29AF284727F1FA1000F254C1 /* Bundle-Decoding.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Bundle-Decoding.swift"; sourceTree = "<group>"; };
-		29AF284927F2026800F254C1 /* waves.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = waves.json; path = "../../../../Game Design/SpriteKit/Zaptastic/Zaptastic/waves.json"; sourceTree = "<group>"; };
 		29AF284F27F2043200F254C1 /* BenzinaNode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BenzinaNode.swift; sourceTree = "<group>"; };
 		29AF285127F206E700F254C1 /* Fuel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Fuel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -90,7 +88,6 @@
 				29AF282A27F1DFE000F254C1 /* Assets.xcassets */,
 				29AF282C27F1DFE000F254C1 /* LaunchScreen.storyboard */,
 				29AF284127F1F21600F254C1 /* car-types.json */,
-				29AF284927F2026800F254C1 /* waves.json */,
 			);
 			path = NCX;
 			sourceTree = "<group>";
@@ -155,7 +152,6 @@
 			files = (
 				29AF282927F1DFDF00F254C1 /* Main.storyboard in Resources */,
 				29AF282027F1DFDF00F254C1 /* GameScene.sks in Resources */,
-				29AF284A27F2026900F254C1 /* waves.json in Resources */,
 				29AF282B27F1DFE000F254C1 /* Assets.xcassets in Resources */,
 				29AF282E27F1DFE000F254C1 /* LaunchScreen.storyboard in Resources */,
 				29AF284227F1F21600F254C1 /* car-types.json in Resources */,
